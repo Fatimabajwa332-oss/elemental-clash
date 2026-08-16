@@ -1,0 +1,168 @@
+{
+  "players": {
+    "WUDjkVKzu0QfayfzAAAD": {
+      "wins": 0,
+      "losses": 1,
+      "draws": 0,
+      "matchesPlayed": 1
+    },
+    "3R19POoPOksw_CQUAAAB": {
+      "wins": 1,
+      "losses": 0,
+      "draws": 0,
+      "matchesPlayed": 1
+    },
+    "o3KvCHGzc8BilqdlAAAB": {
+      "wins": 0,
+      "losses": 1,
+      "draws": 0,
+      "matchesPlayed": 1
+    },
+    "CKHYHbb_Eajk_yJ-AAAF": {
+      "wins": 1,
+      "losses": 0,
+      "draws": 0,
+      "matchesPlayed": 1
+    },
+    "pJB_vZLwwy8DhE1sAAAF": {
+      "wins": 1,
+      "losses": 0,
+      "draws": 0,
+      "matchesPlayed": 1
+    },
+    "I3hZdbifglIkpC9OAAAD": {
+      "wins": 0,
+      "losses": 1,
+      "draws": 0,
+      "matchesPlayed": 1
+    }
+  },
+  "matches": [
+    {
+      "roomCode": "W9LRY",
+      "player1Id": "WUDjkVKzu0QfayfzAAAD",
+      "player2Id": "3R19POoPOksw_CQUAAAB",
+      "move1": "rock",
+      "move2": "paper",
+      "outcome1": "lose",
+      "timestamp": "2026-08-16T07:46:19.598Z"
+    },
+    {
+      "roomCode": "5WCTE",
+      "player1Id": "o3KvCHGzc8BilqdlAAAB",
+      "player2Id": "CKHYHbb_Eajk_yJ-AAAF",
+      "move1": "paper",
+      "move2": "scissors",
+      "outcome1": "lose",
+      "timestamp": "2026-08-16T07:58:05.769Z"
+    },
+    {
+      "roomCode": "S3USA",
+      "player1Id": "I3hZdbifglIkpC9OAAAD",
+      "player2Id": "RJg98qJQlp9L_0RTAAAB",
+      "move1": "water(3)",
+      "move2": "water(2)",
+      "outcome1": "win",
+      "timestamp": "2026-08-16T17:07:58.973Z"
+    },
+    {
+      "roomCode": "S3USA",
+      "player1Id": "I3hZdbifglIkpC9OAAAD",
+      "player2Id": "RJg98qJQlp9L_0RTAAAB",
+      "move1": "fire(4)",
+      "move2": "water(1)",
+      "outcome1": "lose",
+      "timestamp": "2026-08-16T17:08:25.063Z"
+    },
+    {
+      "roomCode": "S3USA",
+      "player1Id": "I3hZdbifglIkpC9OAAAD",
+      "player2Id": "RJg98qJQlp9L_0RTAAAB",
+      "move1": "fire(5)",
+      "move2": "water(3)",
+      "outcome1": "lose",
+      "timestamp": "2026-08-16T17:09:07.594Z"
+    },
+    {
+      "roomCode": "DTEDY",
+      "player1Id": "pJB_vZLwwy8DhE1sAAAF",
+      "player2Id": "I3hZdbifglIkpC9OAAAD",
+      "move1": "water(1)",
+      "move2": "earth(3)",
+      "outcome1": "lose",
+      "timestamp": "2026-08-16T17:12:06.791Z"
+    },
+    {
+      "roomCode": "DTEDY",
+      "player1Id": "pJB_vZLwwy8DhE1sAAAF",
+      "player2Id": "I3hZdbifglIkpC9OAAAD",
+      "move1": "fire(2)",
+      "move2": "fire(5)",
+      "outcome1": "lose",
+      "timestamp": "2026-08-16T17:12:17.097Z"
+    },
+    {
+      "roomCode": "DTEDY",
+      "player1Id": "pJB_vZLwwy8DhE1sAAAF",
+      "player2Id": "I3hZdbifglIkpC9OAAAD",
+      "move1": "earth(3)",
+      "move2": "water(5)",
+      "outcome1": "win",
+      "timestamp": "2026-08-16T17:12:25.845Z"
+    },
+    {
+      "roomCode": "DTEDY",
+      "player1Id": "pJB_vZLwwy8DhE1sAAAF",
+      "player2Id": "I3hZdbifglIkpC9OAAAD",
+      "move1": "earth(2)",
+      "move2": "fire(1)",
+      "outcome1": "lose",
+      "timestamp": "2026-08-16T17:12:36.074Z"
+    },
+    {
+      "roomCode": "DTEDY",
+      "player1Id": "pJB_vZLwwy8DhE1sAAAF",
+      "player2Id": "I3hZdbifglIkpC9OAAAD",
+      "move1": "earth(4)",
+      "move2": "water(5)",
+      "outcome1": "win",
+      "timestamp": "2026-08-16T17:12:44.502Z"
+    },
+    {
+      "roomCode": "DTEDY",
+      "player1Id": "pJB_vZLwwy8DhE1sAAAF",
+      "player2Id": "I3hZdbifglIkpC9OAAAD",
+      "move1": "water(5)",
+      "move2": "water(2)",
+      "outcome1": "win",
+      "timestamp": "2026-08-16T17:12:54.621Z"
+    },
+    {
+      "roomCode": "DTEDY",
+      "player1Id": "pJB_vZLwwy8DhE1sAAAF",
+      "player2Id": "I3hZdbifglIkpC9OAAAD",
+      "move1": "fire(4)",
+      "move2": "earth(2)",
+      "outcome1": "win",
+      "timestamp": "2026-08-16T17:13:04.335Z"
+    },
+    {
+      "roomCode": "DTEDY",
+      "player1Id": "pJB_vZLwwy8DhE1sAAAF",
+      "player2Id": "I3hZdbifglIkpC9OAAAD",
+      "move1": "earth(2)",
+      "move2": "water(1)",
+      "outcome1": "win",
+      "timestamp": "2026-08-16T17:13:11.701Z"
+    },
+    {
+      "roomCode": "DTEDY",
+      "player1Id": "pJB_vZLwwy8DhE1sAAAF",
+      "player2Id": "I3hZdbifglIkpC9OAAAD",
+      "move1": "earth(5)",
+      "move2": "water(4)",
+      "outcome1": "win",
+      "timestamp": "2026-08-16T17:13:20.635Z"
+    }
+  ]
+}
